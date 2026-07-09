@@ -18,6 +18,11 @@ A Python-based Personal Expense Tracker built using Object-Oriented Programming 
 - File Handling
 - JSON
 - Matplotlib
+- ##output chart
+- ### bar chart
+- ![bar chart] (bar chart.png.jpeg)
+- ###pie chart
+- ![pie chart] (pie chart.jpeg)
 
 ## Author
 Shivam Sahu
